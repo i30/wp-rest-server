@@ -1,0 +1,26 @@
+{
+    "name": "wp-rest-server",
+    "version": "1.0.0",
+    "description": "My WordPress plugin boilerplate for WP REST servers.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/i30/wp-rest-server.git"
+    },
+    "keywords": [
+        "wordpress",
+        "plugin"
+    ],
+    "author": "i30",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/i30/wp-rest-server/issues"
+    },
+    "homepage": "https://github.com/i30/wp-rest-server#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "^2.0.11",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^2.3.2",
+        "gulp-uglify": "^2.0.0"
+    }
+}

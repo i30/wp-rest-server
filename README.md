@@ -1,2 +1,3 @@
-# wp-rest-server
-My plugin boilerplate for REST servers using WordPress's REST API
+# WP REST Server
+
+My WordPress plugin boilerplate for WP REST servers.
